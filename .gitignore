@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#################################
+# Atlas notebooks stuff goes here
+#################################
+
+data_cache/
